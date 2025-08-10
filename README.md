@@ -28,3 +28,7 @@ This project demonstrates how to combine **Generative AI** with an interactive U
    ```bash
    git clone https://github.com/<your-username>/animal-detection-genai.git
    cd animal-detection-genai
+
+https://github.com/user-attachments/assets/0b34f89f-7bc3-4552-9263-c10c0a8d5bd9
+
+
